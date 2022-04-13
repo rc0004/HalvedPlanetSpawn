@@ -1,0 +1,13 @@
+﻿OrbType:
+  - update:
+      OrbTypeId: 0
+      ChildCountMaximum: value / 2
+  - update: 
+      OrbTypeId: 1
+      ChildCountMaximum: value / 2
+  - update:
+      OrbTypeId: 2
+      ChildCountMaximum: value / 2
+  - update:
+      OrbTypeId: 28
+      ChildCountMaximum: value / 2
