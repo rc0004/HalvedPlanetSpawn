@@ -28,22 +28,34 @@ Choose abundant to help the AI expand more easily and have a more balanced game 
 
 
 Mortalen	258.50	
+
 Teekan		210.50	
+
 Zenox		63.25	
+
 Human		94.50	
+
 Ackdarians	87.75	
+
 Haakonish	80.50	
+
 Boskara		55.75	
 
 
 2. MODDED VALUES
 
 Mortalen	142.00	
+
 Teekan		125.00	
+
 Zenox		91.00	
+
 Human		43.00	
+
 Ackdarians	43.00	
+
 Haakonish	42.00	
+
 Boskara		31.00	
 
 
