@@ -31,7 +31,7 @@ Mortalen	258.50
 
 Teekan		210.50	
 
-Zenox		63.25	
+Zenox		163.25	
 
 Human		94.50	
 
