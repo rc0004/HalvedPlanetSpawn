@@ -3,8 +3,9 @@ Simple mod for Distant Worlds 2 to halve the number of planets spawned in a gala
 
 **REQUIREMENTS**
 
-ModLauncher v1.2.1, which can be downloaded here -- https://github.com/DW2MC/DW2ModLoader/releases/tag/v1.2.1
+If playing DW2 1.0.3.3 you will need at least version ModLauncher v1.2.1, which can be downloaded here -- https://github.com/DW2MC/DW2ModLoader/releases/tag/v1.2.1
 
+For 1.0.3.5 and later versions, [install ModLauncher v1.2.2](https://github.com/DW2MC/DW2ModLoader/releases/tag/v1.2.2)
 
 **WHAT THIS MOD DOES**
 
@@ -24,7 +25,7 @@ Choose abundant to help the AI expand more easily and have a more balanced game 
 
 **EXPECTED PLANET NUMBERS IN SIZE 1000 GALAXY, NORMAL COLONY PREVALANCE**
 
-1. VANILLA VALUES >= 20 SUITABILITY (AFTER +10 COLONISATION TECH)
+1. **VANILLA VALUES >= 20 SUITABILITY (AFTER +10 COLONISATION TECH)**
 
 
 Mortalen	258.50	
@@ -42,7 +43,7 @@ Haakonish	80.50
 Boskara		55.75	
 
 
-2. MODDED VALUES
+2. **MODDED VALUES**
 
 Mortalen	142.00	
 
